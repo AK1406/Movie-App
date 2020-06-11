@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Popular Movies </string>
+    <string name="result_not_found_try_again">Result Not Found. Try Again !</string>
+    <string name="title">Title</string>
+    <string name="release_date">release date</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="rate">Rate :</string>
+    <string name="show_release_date">Release date :</string>
+    <string name="overview">Overview :</string>
+    <string name="rating">rating</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="home">Home</string>
+    <string name="it_s_movie_s_poster">It\'s Movie\'s Poster</string>
+    <string name="this_is_the_movie_s_poster">This is the Movie\'s Poster</string>
+    <string name="rating_star">Rating Star</string>
+    <string name="review_error_message">Review error message</string>
+    <string name="reviews">Reviews :</string>
+    <string name="trailer_error_message">Connection Error !</string>
+    <string name="trailers">Trailers :</string>
+    <string name="add_to_favourite">add to favourite</string>
+    <string name="rate_out_of_ten">/ 10</string>
+    <string name="remove_from_favorites">Remove From Favourite</string>
+    <string name="favourite_movies"> My Favourite Movies</string>
+    <string name="see_review">see review</string>
+    <string name="play_trailer">play trailer</string>
+    <string name="play_trailers">play trailer</string>
+    <string name="see_reviews">see review</string>
+</resources>
